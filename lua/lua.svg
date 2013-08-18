@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="923.25"
+   height="923.25"
+   viewBox="0 0 923.25 923.25"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="lua.svg">
+  <defs
+     id="defs22" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="958"
+     inkscape:window-height="1059"
+     id="namedview20"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:zoom="0.35619466"
+     inkscape:cx="555.5344"
+     inkscape:cy="435.04185"
+     inkscape:window-x="960"
+     inkscape:window-y="19"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" />
+  <metadata
+     id="metadata4">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Lua programming language logo</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <title
+     id="title6">Lua programming language logo</title>
+  <g
+     id="g2999"
+     transform="translate(-11.9375,-11.8125)">
+    <circle
+       id="circle8"
+       r="353.21301"
+       cy="473.504"
+       cx="473.505"
+       style="fill:#000080"
+       sodipodi:cx="473.505"
+       sodipodi:cy="473.504"
+       sodipodi:rx="353.21301"
+       sodipodi:ry="353.21301"
+       d="m 826.71802,473.504 c 0,195.07416 -158.13885,353.21301 -353.21302,353.21301 -195.07416,0 -353.21301,-158.13885 -353.21301,-353.21301 0,-195.07416 158.13885,-353.21301 353.21301,-353.21301 195.07417,0 353.21302,158.13885 353.21302,353.21301 z" />
+    <circle
+       id="circle10"
+       r="103.454"
+       cy="327.19699"
+       cx="619.81201"
+       style="fill:#ffffff"
+       sodipodi:cx="619.81201"
+       sodipodi:cy="327.19699"
+       sodipodi:rx="103.454"
+       sodipodi:ry="103.454"
+       d="m 723.26601,327.19699 c 0,57.13607 -46.31793,103.454 -103.454,103.454 -57.13607,0 -103.454,-46.31793 -103.454,-103.454 0,-57.13607 46.31793,-103.454 103.454,-103.454 57.13607,0 103.454,46.31793 103.454,103.454 z" />
+    <circle
+       id="circle12"
+       r="103.455"
+       cy="120.291"
+       cx="826.71802"
+       style="fill:#000080"
+       sodipodi:cx="826.71802"
+       sodipodi:cy="120.291"
+       sodipodi:rx="103.455"
+       sodipodi:ry="103.455"
+       d="m 930.17302,120.291 c 0,57.13662 -46.31838,103.455 -103.455,103.455 -57.13662,0 -103.455,-46.31838 -103.455,-103.455 0,-57.136619 46.31838,-103.455001 103.455,-103.455001 57.13662,0 103.455,46.318382 103.455,103.455001 z" />
+    <text
+       id="text14"
+       style="font-size:317.89535522px;fill:#ffffff;stroke:none;font-family:'Helvetica, Arial'">
+      <tspan
+         id="tspan16"
+         y="650.10583"
+         x="208.38419">Lua</tspan>
+    </text>
+    <path
+       id="path18"
+       d="M 880.401,266.182 A 456.668,456.668 0 1 1 722.223,90.5071"
+       style="fill:none;stroke:#808080;stroke-width:10.59654522;stroke-linecap:butt;stroke-dasharray:39.8522;stroke-dashoffset:0"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
